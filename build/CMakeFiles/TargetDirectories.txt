@@ -1,0 +1,9 @@
+C:/Users/Professional/laba6/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Professional/laba6/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Professional/laba6/build/stretegy/CMakeFiles/buble.dir
+C:/Users/Professional/laba6/build/stretegy/CMakeFiles/sorter.dir
+C:/Users/Professional/laba6/build/stretegy/CMakeFiles/new.dir
+C:/Users/Professional/laba6/build/stretegy/CMakeFiles/quick.dir
+C:/Users/Professional/laba6/build/stretegy/CMakeFiles/sorting.dir
+C:/Users/Professional/laba6/build/stretegy/CMakeFiles/std.dir
+C:/Users/Professional/laba6/build/stretegy/CMakeFiles/main.dir
